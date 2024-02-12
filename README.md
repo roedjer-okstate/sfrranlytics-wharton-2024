@@ -1,5 +1,14 @@
 # ban5763-spring2024-sfrranalytics
 
+**UPDATE 3 (Feb 11th 2024)**  
+- Broken down the problem statement into multiple individual supervised and unsupervised problems.
+- Problem Statement 1: Using a simple decision tree model to extract rules, study the rules, understand feature importance, and carry out SHAP analysis.  
+    - Using the `% ratio of days` as the target variable for the first problem to understand factors that influence workplace environment preference for an employee
+    - The variables related perceived impact of the work environment on the distributed nature of the work (post covid) have a very significant influence on the preference (based on Global SHAP Analysis). Personal preferences and specific work type-related preferences also make an impact.
+    - Local SHAP Analysis was carried out to get a deeper understanding of each factor and how they lead to the decisions made by the employees. Approach: Bucket the target variable ratios into three different buckets (Low, High, Medium) and take 10-20 random samples from each bucket. Create force plots to analyze visually how the different factors affect the decision-making in each of the three buckets. Look for common patterns.
+- Problem Statement 2: Use the key variables determined by the model from Problem Statement 1 to group the customers into 3-4 different groups using hierarchical clustering. Profile the groups based on the perspective of an employer such that certain common arrangements can be made according to employee preferences.
+
+
 **UPDATE 2 (Feb 9th 2024)**
 - Split the survey data (high number of variables) into different categories like Workplace Features, Space Type & Preferences, and Influential Factors.
 - Carried out some preliminary univariate analysis, some example findings are:
