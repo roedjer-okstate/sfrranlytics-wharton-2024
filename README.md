@@ -1,5 +1,46 @@
 # ban5763-spring2024-sfrranalytics
 
+**UPDATE 4 (Feb 16th 2024)**
+This update contains our notes from the work and the Q&A call that took place on 2/15.
+
+Q&A Call
+- Different organizations have different survey structures. Lot of missing data between variables so story needs to be constructed carefully.
+- Asked when businesses explore the need for surveying + action. Found that they usually have a goal in mind but questions cannot be too naunced or it will be biased.
+ 
+ 
+1.a: What factors predict people’s preferences about where to work and where they feel most productive?
+Decided to use the combination of PostC_impact_shift_A_focus, PostC_impact_shift_B_productive, PostC_impact_shift_C_collab, and PostC_impact_shift_E_innovate as a proxy target variable for "where they feel most productive".
+Currently investigating the relationship between chosen variables and the proxy target variable: 
+Distraction variables (OBSV_PreC_5A_lost_layout to OBSV_PreC_5L_lost_indoorlight) - more distractions could lead to low productivity
+Interactive work variables - the nature and frequency of interactive work may affect productivity in different settings
+DEMO_meeting_remote - ability to conduct meetings or work that cannot be done remotely, indicating the necessity for in-person collaboration, may affect productivity in different settings
+Influential Factors - factors influence their decision to work from home or in the office may directly influence their productivity in different settings
+ 
+1.b: What can we learn about the factors that determine when people prefer to work from the office and when they prefer to be remote?
+ 
+- Continuing the train of thought and using a combination of similar + different variables from question 1.a (productivity preference) to build a story.
+- Trying to build the story such that we pick up influential factors from each bucket that cover variety of work-related factors like fraction of work time spent in meetings, type of work (collaborative/individual), health and wellness priority, productivity/distraction metrics, ability to enjoy work at specific environments etc.
+ 
+Things we found interesting:
+- Commute Length: Direct relationship with preference to work at office/remote.
+- Pre-covid meeting style: Fraction of calls (Pre-Covid) wherein at least 1 person joined online shows preference to work remote in today's world.
+- Productivity: Pre-covid those who spent considerable time being distracted at work now prefer working at home and are more satisfied.
+- Work Enjoyment: Effect of innovation/creation and focus driven work is more enjoyable when people are in their preferred environments. They tend to prefer working from home/office based on these metrics.
+- Collaboration: Those who have roles that require more in-person collaboration would prefer going into office whereas those spending most time on calls prefer home.
+-  Health & Wellness: People who prioritze health and family prefer working at home. They're more satisfied and creative when they can juggle between these important parts easily.
+- Work Life Separation: Ultimately, work-life balance is crucial for people selecting their preferred work environment.
+- Still exploring for other variables that signify exact role structure, affinity for leadership + purposeful roles, % of time spent in office vs outside of office (sedentary/laborious roles), impact of access to technology and social structures etc.
+
+2.
+- Looking at the different variables to understand how we can segment the data. We have looked at variables related to the Departments.
+- The way that the employees have responded to questions Post Covid can be a way to judge the sentiments of the people since they have theoretically experienced the way that work was before COVID and can compare it to th one after COVID.
+- The next two important set of variables are preference and satisfaction with respect to the work place environment.
+- We will try out different combinations of these variables and ultimately shortlist it to the final variables based on the already conducted secondary research and the variables that are important in our modelling.
+
+  3.
+- We are keeping this very open ended at this point but have a few ideas that we would want to explore especially knowing the kind of industries that this survey was sent along with the timeline.
+- We will make sure that our reccomendations are mostly role specific and not organization specific as we cannot identify an individual with their organization and due to the missing values.
+
 **UPDATE 3 (Feb 11th 2024)**  
 - Broken down the problem statement into multiple individual supervised and unsupervised problems.
 - Problem Statement 1: Using a simple decision tree model to extract rules, study the rules, understand feature importance, and carry out SHAP analysis.  
