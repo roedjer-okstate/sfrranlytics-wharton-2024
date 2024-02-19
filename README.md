@@ -2,7 +2,7 @@
 
 **UPDATE 5 (Feb 19th 2024)**
 
-1.a: What factors predict people’s preferences about where to work and where they feel most productive?
+1.a) What factors predict people’s preferences about where to work and where they feel most productive?
 
 - Further decided to use the combination of PostC_impact_shift_A_focus, PostC_impact_shift_E_innovate as the target variable as the definition of productivity is to get tasks done efficiently.
 - Two groups of variables make significant impact to where people feel most productive:
@@ -13,7 +13,35 @@
  - Home office satisfaction can be improved by improving Hardware and software (including meeting software) for work, Acoustic and natural light, and Furniture and seatings for collaborative settings.
  - Additional info: By comparing employees with unsatisfied and satisfied home settings, employees with satisfied home settings have 20% less distraction than opposing part.
 
+1.b) What affects preference to work from home/office
+ 
+Bucketed variables into multiple categories that are most sound with external research. Explored relationships aginst employee work preference against them. Categories are:
+ 
+1. Collaboration Quotient: Mix of variables like access to colleagues, team meetings, managers, clients etc. Found that those have have more collaborative work tend to prefer working from office. Moreover, people have diff levels of comfort from diff environments.
+ 
+2. Wellbeing Quotient: Includes vars like Work life separation and health & wellness preferences. Found that those who rate these highly prefer mostly WFH.
+ 
+3. Distraction Factors: Includes multiple observation factors like distraction due to desk visitors, environment (lights, noise...), technology issues etc. Found that each variable has different meaning with preference. Eg: people losing more time due to noise prefer WFH whereas those who lose more time due to tech challenges prefer work from office. Backed this up with "Environmental Quotient" which shows employees' preferences towards aforementioned vars.
+ 
+4. Tech Quotient: Assesses preference for access to tech tools. Those who rate this highly prefer working from office.
+ 
+5. Commute Quotient: Includes safety and commute vars. Those who think long commutes are painful prefer WFH.
+ 
+6. Org Culture Quotient: Includes Social events, leadership policy, community etc. Those who find these important prefer work from office.
+ 
+Generally found that PostCovid most people shifting to WFH or Hybrid situation. People prefer to go to work based on aforementioned factors and their roles. Productivity metrics and all Quotients help is define segments.
+ 
+Segmentation
+ 
+- Broadly classified into 3 groups: People who prefer WFH, Hybrid or WF Office.
 
+Assessing the impact of previous variables on these groups and what drives them to prefer working from wherever.
+ 
+- Finding concentration of work roles (Accounting, Marketing, Sales etc.) within these groups to show what they're composed of.
+ 
+- Vetting their prefernce against satisfaction to show gaps in current work situation vs what would make them more satisfied.
+ 
+- Exercise allows us to setup foundational gaps in these groups to segway into recommendations. Focus on what are these groups, what do they prefer, what problems are they facing and how are their satisfaction levels right now?
 
 **UPDATE 4 (Feb 16th 2024)**
 
