@@ -31,7 +31,7 @@ Bucketed variables into multiple categories that are most sound with external re
  
 Generally found that PostCovid most people shifting to WFH or Hybrid situation. People prefer to go to work based on aforementioned factors and their roles. Productivity metrics and all Quotients help is define segments.
  
-Segmentation
+**Segmentation**
  
 - Broadly classified into 3 groups: People who prefer WFH, Hybrid or WF Office.
 
@@ -42,6 +42,20 @@ Assessing the impact of previous variables on these groups and what drives them 
 - Vetting their prefernce against satisfaction to show gaps in current work situation vs what would make them more satisfied.
  
 - Exercise allows us to setup foundational gaps in these groups to segway into recommendations. Focus on what are these groups, what do they prefer, what problems are they facing and how are their satisfaction levels right now?
+
+**Simple Model**
+ 
+Creating a Decision Tree model to predict what would be peoples' WFH rates and using the factors to build a Rule Based process. 
+ 
+**Usable Product - Dashboard**
+ 
+Allows executives to see what factors contribute to preferences in our 3 segmented groups.
+Highlights problems in their Quotients and where there are vulnerabilities
+Uses some GenAI to summarize most important insights based on which group is selected.
+Work In Progress: Trying to quantify upliftment by comparing employee satisfaction between unsatisfied groups and satisfied groups. Delta shows the effect of interventions. 
+
+<br>
+<br>
 
 **UPDATE 4 (Feb 16th 2024)**
 
