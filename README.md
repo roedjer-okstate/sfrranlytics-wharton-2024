@@ -1,5 +1,20 @@
 # ban5763-spring2024-sfrranalytics
 
+**UPDATE 5 (Feb 19th 2024)**
+
+1.a: What factors predict people’s preferences about where to work and where they feel most productive?
+
+- Further decided to use the combination of PostC_impact_shift_A_focus, PostC_impact_shift_E_innovate as the target variable as the definition of productivity is to get tasks done efficiently.
+- Two groups of variables make significant impact to where people feel most productive:
+  - Productivity in Collaborative Settings (37% R2 affecting where people feel most productive): PostC_impact_shift_G_teammeetings, PostC_impact_shift_I_managersconnect, PostC_impact_shift_C_collab, PostC_impact_shift_F_colleagueaccess, PostC_impact_shift_D_videoconf; High productivity in collaborative settings indicates that employee feel productive at home and at office.
+  - Home Office Satisfaction (32% R2 affecting where people feel most productive): SATSF_facilitate_Home_1A_focus, SATSF_facilitate_Home_1C_virtualcollab, SATSF_facilitate_HomeTech_3A_virtualcollab, SATSF_HomeOffice_E_seating, SATSF_facilitate_Home_1B_inpersoncollab, SATSF_facilitate_HomeTech_3C_virtualcollab, SATSF_HomeOffice_D_furniture, SATSF_facilitate_HomeTech_3B_inpersoncollab, SATSF_HomeOffice_C_CollabTools; High satisfaction in home office settings indicates that employee feel productive at home.
+ - In short, employees feels productive when they have the ability to Participate in team meetings, Interact with managers, Connect via video conference, and Access and collaborate; or when they are satisfied with Settings for individual work, Settings for collaboration, and Environment comfort (seatings, furniture)
+ - Productivity in collaborative settings can be improved by improving Ability for connect and social with others, Light levels while collaboration, and Accessibility with colleagues and superiors.
+ - Home office satisfaction can be improved by improving Hardware and software (including meeting software) for work, Acoustic and natural light, and Furniture and seatings for collaborative settings.
+ - Additional info: By comparing employees with unsatisfied and satisfied home settings, employees with satisfied home settings have 20% less distraction than opposing part.
+
+
+
 **UPDATE 4 (Feb 16th 2024)**
 
 
