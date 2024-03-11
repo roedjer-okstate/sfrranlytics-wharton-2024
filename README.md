@@ -1,5 +1,13 @@
 # ban5763-spring2024-sfrranalytics
 
+**UPDATE 6 (Mar 11th 2024)**
+- Explore other composite variables in modeling
+- Addition of other factors like health and wellbeing quotient, distance to office etc. to build a more compelling story.
+- Explore feature hashing
+- Check if we build model with respect to different organizations. We can seggregate the organizations based on the timeline of the survey.
+- Waiting for WPAC to upload all the finalists' analysis. We can take queues from there on how to improve our analysis.
+
+
 **UPDATE 5 (Feb 19th 2024)**
 
 1.a) What factors predict people’s preferences about where to work and where they feel most productive?
