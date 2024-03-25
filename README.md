@@ -1,6 +1,11 @@
 # ban5763-spring2024-sfrranalytics
 
 **UPDATE 6 (Mar 11th 2024)**
+- Built further upon our previous work on modeling with respect to different organizations. Segregated at each individual organization level. Will look into group organizations next.
+- Learnt about feature hashing. Will work on experimenting with that that in the coming weeks.
+- Worked on improving our Gen AI-based bot responses using Retrieval Augmented Generation (our third recommendation). The topic for BAN5763 was LLMs this week, so, we thought it would be a good learning experience.
+
+**UPDATE 6 (Mar 11th 2024)**
 - Explore other composite variables in modeling
 - Addition of other factors like health and wellbeing quotient, distance to office etc. to build a more compelling story.
 - Explore feature hashing
