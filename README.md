@@ -1,7 +1,10 @@
 # ban5763-spring2024-sfrranalytics
 
 **UPDATE 6 (Mar 11th 2024)**
-- Built further upon our previous work on modeling with respect to different organizations. Segregated at each individual organization level. Will look into group organizations next.
+- Built further upon our previous work on modeling with respect to different organizations. Segregated at each individual organization level. Will look into grouping organizations next.
+    - Organizations having similar types of departments like Org3 and Org1 (Construction/Architecture) had similar key features driving their workplace preferences. They seemed to have a hybrid preference.
+    - Similarly, Org2 and Org5 (IT Org) also had similar key features driving their importance.
+    - It might be useful to deduce the "nature of work" done by a company based on the departments with majority employees and group them together based on that. Will help us get more datapoints for some orgs like Org 1 that had only around 70 data points. 
 - Learnt about feature hashing. Will work on experimenting with that that in the coming weeks.
 - Worked on improving our Gen AI-based bot responses using Retrieval Augmented Generation (our third recommendation). The topic for BAN5763 was LLMs this week, so, we thought it would be a good learning experience.
 
