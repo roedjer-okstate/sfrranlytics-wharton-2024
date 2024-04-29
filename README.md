@@ -1,6 +1,6 @@
 # ban5763-spring2024-sfrranalytics
 
-** LAST UPDATE (Apr 29th 2024)**
+**LAST UPDATE (Apr 29th 2024)**
 
 - Almost done with the report. Working on formatting it better.
 - Frankle Muchahary, Ritwik Roy Chowdhury, Roe Djer Tan, and Shreyan Datta Chakraborty would like to say thank you to the professors for helping and guiding us throughout this project. It was a fantastic experience working in the Humana-Mays Healthcare Analytics Competition.
