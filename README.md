@@ -1,5 +1,13 @@
 # ban5763-spring2024-sfrranalytics
 
+** LAST UPDATE (Apr 29th 2024)**
+
+- Almost done with the report. Working on formatting it better.
+- Frankle Muchahary, Ritwik Roy Chowdhury, Roe Djer Tan, and Shreyan Datta Chakraborty would like to say thank you to the professors for helping and guiding us throughout this project. It was a fantastic experience working in the Humana-Mays Healthcare Analytics Competition.
+
+Regards,
+Team SFRR Analytics
+
 **UPDATE 6 (Mar 11th 2024)**
 - Built further upon our previous work on modeling with respect to different organizations. Segregated at each individual organization level. Will look into grouping organizations next.
     - Organizations having similar types of departments like Org3 and Org1 (Construction/Architecture) had similar key features driving their workplace preferences. They seemed to have a hybrid preference.
