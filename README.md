@@ -1,13 +1,22 @@
 # ban5763-spring2024-sfrranalytics
 
 **LAST UPDATE (Apr 29th 2024)**
-Report Status - 95% Complete. 
 
+Watched the winning team's (MetroMinds - NYU) Presentation At WPAC Conference. Learnings are below
+
+- Analysis was very similar to ours. They also used composite scores and visualized effect on workplace preference rate.
+- They performed ANOVA to look at differences across Job families (Business Ops, Customer Support and Sales etc.)
+- They also performed a decision tree and showcased the level of depth in trees and variety of factors that could potentially be studied.
+- One stand out recommendation was to have different kinds of enviornments for different roles - Customer Support (less vibrant), Tech roles (High activity spaces) etc. This was great.
+- Rest of the recommendations were standard - Giving employees a budget to setup office spaces, Flexible Work Scheduling (Hot desk system) etc.
+  
+Report Status - 95% Complete. 
 - Almost done with the report. Working on formatting it better.
 - Frankle Muchahary, Ritwik Roy Chowdhury, Roe Djer Tan, and Shreyan Datta Chakraborty would like to say thank you to the professors for helping and guiding us throughout this project. It was a fantastic experience participating in Wharton People Analytics Case Competition.
 
 Regards,
 Team SFRR Analytics
+
 
 **UPDATE 9 (April 15th  2024)**
 Report Status - 70% Complete. 
