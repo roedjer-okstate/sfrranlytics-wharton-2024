@@ -1,12 +1,65 @@
 # ban5763-spring2024-sfrranalytics
 
 **LAST UPDATE (Apr 29th 2024)**
+Report Status - 95% Complete. 
 
 - Almost done with the report. Working on formatting it better.
 - Frankle Muchahary, Ritwik Roy Chowdhury, Roe Djer Tan, and Shreyan Datta Chakraborty would like to say thank you to the professors for helping and guiding us throughout this project. It was a fantastic experience participating in Wharton People Analytics Case Competition.
 
 Regards,
 Team SFRR Analytics
+
+**UPDATE 9 (April 15th  2024)**
+Report Status - 70% Complete. 
+
+Executive Summary - Roger
+Introduction - Shreyan (Complete)
+Project Objectives - Shreyan (Complete)
+Data Visualization - Roger (Complete)
+Data Analysis - Frankle & Roy (Complete)
+Generalization/Explanation - Frankle & Roy (In Progress)
+Future Scope - Frankle (In Progress)
+Conclusion - Roy (In Progress)
+Update Github Repo - All (In Progress)
+
+**UPDATE 8 (April 8th  2024)**
+Report Status - 40% Complete. Did not make too much progress due to engagements at work.
+
+Executive Summary - Roger
+Introduction - Shreyan (Complete)
+Project Objectives - Shreyan (Complete)
+Data Visualization - Roger (In Progress)
+Data Analysis - Frankle & Roy (First Draft Complete -- need to review)
+Generalization/Explanation - Frankle & Roy (In Progress)
+Future Scope - Frankle
+Conclusion - Roy
+Update Github Repo - All
+
+**UPDATE 8 (April 1st  2024)**
+Report Status - 20% Complete
+
+Executive Summary - Roger
+Introduction - Shreyan (Complete)
+Project Objectives - Shreyan (In Progress)
+Data Visualization - Roger (In Progress)
+Data Analysis - Frankle & Roy (In Progress)
+Generalization/Explanation - Frankle & Roy
+Future Scope - Frankle
+Conclusion - Roy
+Update Github Repo - All
+
+**UPDATE 7 (Mar 25th 2024)**
+Distributed tasks for all team members to work on the report. Here is the summary of the distribution:
+
+Executive Summary - Roger
+Introduction - Shreyan
+Project Objectives - Shreyan
+Data Visualization - Roger & Shreyan
+Data Analysis - Frankle & Roy
+Generalization/Explanation - Frankle & Roy
+Future Scope - Frankle
+Conclusion - Roy
+Update Github Repo - All
 
 **UPDATE 6 (Mar 11th 2024)**
 - Built further upon our previous work on modeling with respect to different organizations. Segregated at each individual organization level. Will look into grouping organizations next.
